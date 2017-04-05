@@ -209,10 +209,10 @@ main.container section.content h1 {
 }
 main.container section.content p {
 	color: #21211f;
-	font-size: 1.2rem;
+	font-size: 1.4rem;
 	line-height: 0;
 	letter-spacing: 0.135rem;
-	margin: -0.35rem 0 0 0;
+	margin: 0.35rem 0 0 0;
 	padding: 0 0 0 14.3rem;
 	font-family: "Sentinel A", "Sentinel B";
 	font-style: normal;
